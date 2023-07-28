@@ -1,3 +1,3 @@
 # SnakeGameJAVA
-Hello, I code this game
+Hello, I made this game!!
 
